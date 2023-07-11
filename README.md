@@ -85,7 +85,7 @@ npm run build
 This command compiles and minifies the application, generating optimized files ready for deployment. The production-ready files will be placed in the dist directory.
 
 ## Backend and API Implementation
-For the Backend and API implementation, please refer to the [Backend Application](https://github.com/bouchraakl/ParkingManagerBackend).
+For the Backend and API implementation, please refer to the [Backend Application](https://github.com/bouchraakl/GPC-Backend).
 
 ## Contributors
 | Role             |Name   | E-mail   |
